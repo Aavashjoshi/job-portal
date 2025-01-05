@@ -15,6 +15,7 @@ const Navbar = () => {
 
             <li>Home</li>
             <li>Jobs</li>
+            <li>Aavash</li>
             <li>Browse</li>
           </ul>
           <Popover>
